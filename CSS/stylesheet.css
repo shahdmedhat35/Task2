@@ -39,7 +39,6 @@ header >h2>span
     width:100%;
     height:420px;
     background-image: linear-gradient(rgba(10, 25, 50, 0.45), rgba(10, 25, 50, 0.45)), url("../img/image.png");
-    /* background-image:url("./Task2/img/image.png"); */
     background-size:cover;
     background-position:center;
     padding: 100px 100px;
